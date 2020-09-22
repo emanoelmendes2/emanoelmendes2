@@ -26,7 +26,7 @@ Sou Brasileiro amante da inovação 💚, 22 anos 👶🏻.
 FATOS ㅤ SOBRE ㅤ MIM:
 * Morando em Palmas - Tocantins
 * Ciência da computação - em andamento no @CEULP / ULBRA
-* **Amante da Tecnologia 🖥, Apoixonado por ciclismo 🚲 e um bom jogador de videogame 🎮.**
+* **Amante da Tecnologia 🖥, Apaixonado por ciclismo 🚲 e um bom jogador de videogame 🎮.**
 
 
 ----
