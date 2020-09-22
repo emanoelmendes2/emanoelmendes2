@@ -1,4 +1,4 @@
-### 👋 Olá, mundo, sou Emanoel!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">"
+### 👋 Olá mundo, sou Emanoel!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">"
 
 <a target="_blank" href="https://www.linkedin.com/in/emanoel-mendes-magalhaes-046835127/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 
 ---- 
 
-Olá, sou Emanoel.
+Olá, Me chamo Emanoel.
 
 Sou Brasileiro amante da inovação 💚, 22 anos 👶🏻.
 
