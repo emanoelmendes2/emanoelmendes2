@@ -21,7 +21,7 @@
 
 Olá, Me chamo Emanoel.
 
-Sou Brasileiro amante da inovação 💚, 22 anos 👶🏻.
+Sou Brasileiro amante da inovação 💚, 23 anos 👶🏻.
 
 FATOS ㅤ SOBRE ㅤ MIM:
 * Morando em Palmas - Tocantins
