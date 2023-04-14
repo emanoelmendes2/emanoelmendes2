@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/emanoel-mendes-magalhaes-046835127/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5563981035082">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5563992402465">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/emmmagalhaes/?hl=pt-br">
