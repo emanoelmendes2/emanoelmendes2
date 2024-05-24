@@ -1,6 +1,6 @@
 ### 👋 Olá mundo, sou Emanoel!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://www.linkedin.com/in/emanoel-mendes-magalhaes-046835127/">
+<a target="_blank" href="https://www.linkedin.com/in/emanoel-mendes/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5563992402465">
@@ -21,7 +21,7 @@
 
 Olá, Me chamo Emanoel.
 
-Sou Brasileiro amante da inovação 💚, 25 anos.
+Sou Brasileiro amante da inovação 💚, 26 anos.
 
 FATOS ㅤ SOBRE ㅤ MIM:
 * Morando em Palmas - Tocantins
