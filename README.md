@@ -18,12 +18,12 @@
 
 Olá, Me chamo Emanoel.
 
-Sou Brasileiro amante da inovação 💚, 26 anos.
+Sou Brasileiro amante da inovação 💚, 28 anos.
 
 FATOS ㅤ SOBRE ㅤ MIM:
 * Morando em Palmas - Tocantins
 * Bacharelado em Ciência da computação - @CEULP / ULBRA
-* **Amante da Tecnologia 🖥, Apaixonado por ciclismo 🚲 e um bom jogador de videogame 🎮.**
+* **Amante da Tecnologia 🖥**
 
 
 ----
